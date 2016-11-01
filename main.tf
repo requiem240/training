@@ -42,7 +42,7 @@ variable "aws_secret_key" {}
 variable "aws_region" {
   default = "us-east-1"
 }
-
+asdfasdfg
 provider "aws" {
   #  access_key = "AKIAJ7OFRJWN75NC52ZQ"
   #  secret_key = "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"
